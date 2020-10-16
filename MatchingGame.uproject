@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{80132478-7D43-C252-2810-D196875F0CAE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MatchingGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
